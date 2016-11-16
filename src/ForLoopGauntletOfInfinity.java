@@ -16,6 +16,14 @@ public class ForLoopGauntletOfInfinity {
 		 * for (int i = 2003; i <= 2016; i++) { System.out.print("In " + i);
 		 * String Ducks = Integer.toString(i - 2003); System.out.println(
 		 * " I was " + Ducks); }
-		 */
+		 *
+	for(int i = 0; i <= 2; i++){
+		for(int p=0; p<=2; p++){
+			System.out.println(i +" "+p);
+			}
+	}*/
+		for(int i=0; i <= 2; i++){
+			for(int o = )
+		}
 	}
 }
