@@ -21,9 +21,18 @@ public class ForLoopGauntletOfInfinity {
 		for(int p=0; p<=2; p++){
 			System.out.println(i +" "+p);
 			}
-	}*/
+	}
 		for(int i=0; i <= 2; i++){
-			for(int o = )
+			for(int i = )
 		}
+	}*/
+
+		for (int i = 1; i <= 500; i++) {
+			  //if (i % 3 == 0) {
+			   System.out.println(i + " Is Evenly Divisble by 3"); //} 
+			//  else {
+			//  System.out.println(i + " Is not Evenly Divisible by 3");  
+			 // }
+			  }
 	}
 }
