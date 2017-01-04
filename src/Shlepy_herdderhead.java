@@ -6,7 +6,7 @@ public class Shlepy_herdderhead {
 
 	public static void main(String[] args) {
 
-		boolean isWeekday, isVacation;
+		//boolean isWeekday, isVacation;
 
 		/*
 		 * Ask the user for these values using
